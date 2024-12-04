@@ -1,0 +1,125 @@
+body { 
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('1kki.png') no-repeat center center fixed;
+    background-size: cover;
+    background-size: 50% 50%;
+}
+p {
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    font-style: oblique;
+    text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+    color: #000000;
+}
+#post {
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    font-weight: bolder;
+    text-size-adjust: auto; 
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.1px;
+}
+#name {
+    font-size: 25px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    color: #000000;
+}
+
+#info {
+    text-align: center; 
+    font-size: 18px;
+    margin: 20px auto; 
+    padding: 20px;
+    max-width: 800px; 
+    background-color: #f9f9f9; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+#info a {
+    color: #1500ff; 
+    text-decoration: none; 
+}
+
+#info a:hover {
+    color: orangered; /
+}
+    
+}
+a {
+    text-decoration: none;
+    color: #333; 
+}
+a:hover {
+    color: orangered; 
+}
+
+#high {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #000000; 
+}
+#about {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    max-width: 900px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+#about ul {
+    list-style-type: disc;
+    padding-left: 40px;
+}
+#about li {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+#about strong {
+    color: orangered;
+    font-size: larger;
+}
+#message{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    max-width: 900px;
+    border-radius: 8px;
+    border-width: 10px;
+    border-style: line;
+}
+#dire{
+    text-align: center;
+    font-weight: 200;
+    font-style: oblique;
+    font-size: large;
+    font-weight: 600;
+    color: #000000;
+    font-size: 25px;
+    
+}
+#conclusion{
+    text-align: left;
+    text-decoration: double;
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-variant-position: super;
+    font-size: 20px;
+
+}
